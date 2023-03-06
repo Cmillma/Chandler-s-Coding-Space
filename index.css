@@ -1,0 +1,21 @@
+* { box-sizing: border-box; padding: 0; margin: 0; }
+
+.flexbox-item {
+    display:flex;
+    flex-direction: column;
+    /* border-style: solid; */
+    background-color:rgb(225, 145, 42);
+    /* max-width: 100px; */
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+
+    
+    /* don't use width: 50px; */
+}
+
+
+
+
+
+
