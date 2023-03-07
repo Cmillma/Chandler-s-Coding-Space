@@ -1,0 +1,128 @@
+
+
+.calculator {
+    display:flex;
+    margin: auto;
+    /* min-height:center; */
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    text-justify: center;
+    max-height: 300px;
+    max-width: 200px;
+    background-color: silver;
+    flex-wrap: wrap;
+    
+
+}
+
+.calculator-output {
+    border: solid;
+    height: 50px;
+    width: 200px;
+    background-color: darkolivegreen;
+}
+.calculator-Clear {
+    border: solid;
+    height: 50px;
+    width: 150px;
+    /* flex-direction:column; */
+    
+    background-color: aqua;
+}
+.calculator-divide {
+    border: solid;
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+}
+.calculator-multiply {
+    border: solid;
+    background-color: bisque;
+    height: 50px;
+    width: 50px;
+}
+.calculator-subtract {
+    border: solid;
+    background-color: grey;
+    height: 50px;
+    width: 50px
+}
+.calculator-add {
+    border: solid;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+.calculator-equal {
+    border: solid;
+    background-color: darksalmon;
+    height: 50px;
+    width: 50px;
+}
+.calculator-9 {
+    border: solid;
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 50px;
+}
+.calculator-8 {
+    border: solid;
+    background-color: darkorange;
+    height: 50px;
+    width: 50px;
+}
+.calculator-7 {
+    border: solid;
+    background-color: lime;
+    height: 50px;
+    width: 50px;
+}
+.calculator-6 {
+    border: solid;
+    background-color: cadetblue;
+    height: 50px;
+    width: 50px;
+}
+.calculator-5 {
+    border: solid;
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+}
+.calculator-4 {
+    border: solid;
+    background-color: hotpink;
+    height: 50px;
+    width: 50px;
+}
+.calculator-3 {
+    border: solid;
+    background-color: darkorchid;
+    height: 50px;
+    width: 50px;
+}
+.calculator-2 {
+    border: solid;
+    background-color: indianred;
+    height: 50px;
+    width: 50px;
+}
+.calculator-1 {
+    border: solid;
+    background-color: gold;
+    height: 50px;
+    width: 50px;
+}
+.calculator-0 {
+    border: solid;
+    background-color: deepskyblue;
+    height: 50px;
+    width: 200px;
+}
+.calculator-decimal {
+    border: solid;
+    background-color: yellowgreen;
+    height: 50px;
+    width: 50px;
+}
