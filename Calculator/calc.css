@@ -5,10 +5,10 @@
     margin: auto;
     /* min-height:center; */
     justify-content: center;
-    align-items:center;
+    /* align-items:center; */
     text-align: center;
-    text-justify: center;
-    max-height: 300px;
+    /* text-justify: center; */
+    /* max-height: 300px; */
     max-width: 200px;
     background-color: silver;
     flex-wrap: wrap;
@@ -27,7 +27,6 @@
     height: 50px;
     width: 150px;
     /* flex-direction:column; */
-    
     background-color: aqua;
 }
 .calculator-divide {
