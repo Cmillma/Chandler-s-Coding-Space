@@ -2,10 +2,7 @@
 
 .page {
   display:flex;
-  align-items: center;
-  justify-content: center;
   height: 100vh;
-  background: rgb(148,233,169);
   background: radial-gradient(circle, rgba(148,233,169,1) 37%,
   rgba(238,174,174,1) 63%)
 }
