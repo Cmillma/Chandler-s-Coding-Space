@@ -23,6 +23,21 @@
 
 }
 
+.operation-button {
+    border: 2px solid;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    background-color: white;
+}
+.number-button {
+    border: 2px solid;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    background-color: white;
+}
+
 .calculator-output {
     display: flex;
     align-items: end;
@@ -61,13 +76,6 @@
     grid-column: 4;
     grid-row: 2;
 }
-    .divide-button {
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .divide-button:hover {
         border: 2px solid;
         height: 50px;
@@ -82,13 +90,6 @@
     grid-column: 4;
     grid-row: 3;
 }
-    .multiply-button {
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .multiply-button:hover {
         border: 2px solid;
         height: 50px;
@@ -103,13 +104,6 @@
     grid-column: 4;
     grid-row: 4;
 }
-    .subtract-button {
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .subtract-button:hover {
         border: 2px solid;
         height: 50px;
@@ -124,13 +118,6 @@
     grid-column: 4;
     grid-row: 5;  
 }
-    .add-button {
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .add-button:hover {
         border: 2px solid;
         height: 50px;
@@ -145,13 +132,6 @@
     grid-column: 4;
     grid-row: 6;
 }
-    .equal-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .equal-button:hover{
         border: 2px solid;
         height: 50px;
@@ -166,13 +146,6 @@
     grid-column: 3;
     grid-row: 3;
 }
-    .nine-button {
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .nine-button:hover {
         border: 2px solid;
         height: 50px;
@@ -187,13 +160,6 @@
     grid-column: 2;
     grid-row: 3;
 }
-    .eight-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .eight-button:hover{
         border: 2px solid;
         height: 50px;
@@ -208,13 +174,6 @@
     grid-column: 1;
     grid-row: 3;
 }
-    .seven-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .seven-button:hover{
         border: 2px solid;
         height: 50px;
@@ -229,13 +188,6 @@
     grid-column: 3;
     grid-row: 4;
 }
-    .six-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .six-button:hover{
         border: 2px solid;
         height: 50px;
@@ -250,13 +202,6 @@
     grid-column: 2;
     grid-row: 4;
 }
-    .five-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .five-button:hover{
         border: 2px solid;
         height: 50px;
@@ -271,13 +216,6 @@
     grid-column: 1;
     grid-row: 4;
 }
-    .four-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .four-button:hover{
         border: 2px solid;
         height: 50px;
@@ -292,13 +230,6 @@
     grid-column: 3;
     grid-row: 5;
 }
-    .three-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .three-button:hover{
         border: 2px solid;
         height: 50px;
@@ -313,13 +244,6 @@
     grid-column: 2;
     grid-row: 5;
 }
-    .two-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .two-button:hover{
         border: 2px solid;
         height: 50px;
@@ -334,13 +258,6 @@
     grid-column: 1;
     grid-row: 5;
 }
-    .one-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .one-button:hover{
         border: 2px solid;
         height: 50px;
@@ -376,13 +293,6 @@
     grid-column: 3;
     grid-row: 6;
 }
-    .decimal-button{
-        border: 2px solid;
-        height: 50px;
-        width: 50px;
-        cursor: pointer;
-        background-color: white;
-    }
     .decimal-button:hover{
         border: 2px solid;
         height: 50px;
