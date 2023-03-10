@@ -12,14 +12,8 @@
 
 .calculator {
     Display: grid;
-/*  flex-direction: column;
-    flex-direction: row; */
     margin: auto;
-/*  min-height:center; */
     justify-content: center;
-/*  align-items:center; */
-/*  text-align: center; */
-/*  text-justify: center; */
     max-height: 400px;
     max-width: 200px;
     background-color: silver;
